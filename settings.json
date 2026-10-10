@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "OP NINJA",
+    "username": "DbgamingLive",
     "password": "",
     "type": "offline"
   },
@@ -18,8 +18,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "Perzuu"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
